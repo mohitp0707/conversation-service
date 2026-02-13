@@ -59,6 +59,9 @@ src/
 │ ├── session.schema.ts
 │ └── event.schema.ts
 
+# API Details
+  Swagger docs available at http://localhost:${port}/docs
+  
 # Getting Started
 
 ## Clone the Repository
@@ -68,3 +71,4 @@ git clone https://github.com/mohitp0707/conversation-service.git
 cd conversation-service
 npm install
 npm start
+
